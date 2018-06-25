@@ -1,9 +1,9 @@
 Installation
 _____________
 
-clone this repo 
+clone this repo ,
  cd movie ,
- npm install 
+ npm install. 
  
  
  How to start
